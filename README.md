@@ -1,2 +1,2 @@
-# tmux-config
-Repository holding tmux configuration.
+# Configs
+Repository holding personal configurations.
